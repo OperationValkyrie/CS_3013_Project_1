@@ -18,5 +18,5 @@ before the 33rd is started as the arrays looped around. Whenever the program pri
 have finished and if so prints out the statisitcs and output.
 
 This program was tested with the test.txt file inside of each of the folders
-Inidividual features were tested manuelly with liberal use of printfs.
+Inidividual features were tested manuelly with liberal use of printfs. 
 
