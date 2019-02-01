@@ -1,0 +1,25 @@
+0
+1
+2
+-r
+/home/jon/Desktop
+p
+a
+free -m
+3
+a
+whoami
+a
+whoami
+a
+whoami
+a
+whoami
+a
+whoami
+a
+free -m
+a
+free -m
+a
+free -m
